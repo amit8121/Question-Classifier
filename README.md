@@ -1,5 +1,5 @@
-## Toucan-AI_Test
-  Contains python implementation of an LSTM Network which is used to predict whether a sentence is a question or not, this program was        developed as a part of a take home assignment.
+## Question Classifier
+  Contains python based implementation of an LSTM Network which is used to predict whether a sentence is a question or not.
 
 
 ### Questions Predictor
